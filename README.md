@@ -33,7 +33,7 @@ To set up and run the project on your local machine, follow these steps:
 ### Using Command Line:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/qs-ranking-project.git
+   git clone https://github.com/Hamada-khairi/QS-RANKING-PROJECT.git
    ```
 2. **Navigate to the project directory:**
    ```bash
